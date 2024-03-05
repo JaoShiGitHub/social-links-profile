@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-      Meow Meow
+      <h1 className="text-red-500">Meow Meow</h1>
     </>
   )
 }
